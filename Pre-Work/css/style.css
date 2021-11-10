@@ -10,19 +10,4 @@ h2 {color: white; font-size:16pt; text-align: center; text-decoration: underline
     #Div1 {background-color: white}
 #Classicalmusic {background-color: black}
 body {background-color: black}
-h3 {text-align: center; text-decoration: underline; color:burlywood; font-size: 16pt}
-p {text-indent:1in; font-size: 14pt; font-style:oblique}
-ul {font-size: 14pt;}
-table {margin-left: auto; margin-right: auto}
-tr {color: white;}
-#TopRow {color:coral; font-size: 14pt; text-decoration: underline}
-.Country {color:White}
-#Past {background-color:black; color: whitesmoke}
-#Present {background-color:beige; color: black}
-#Travel {background-color: rgba(128, 128, 128, 0.055)}
-h4 {font-size: 30pt}
-form {padding: 200px; background-color:wheat; font-style: italic; font-weight:500px; border-style: solid}
-input[type=button] {color: black; background-color: white; padding: 4px}
-input[type=button]:hover{border: solid; background-color:purple;}
-input[type=text]:focus{background-color:rgb(250, 250, 226); color: black; width: 100%; transition: 2s}
-button.skeuomorph{outline: none; padding: 1em; font-size: inherit; font-family:"Arial"}
+

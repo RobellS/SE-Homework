@@ -1,0 +1,15 @@
+nav {text-align: center; color: purple}
+    body{background-color: black;}
+    h1 {color: burlywood; text-align: center; font-size: 30pt; font-family: "Lucida Console", "Courier New", monospace}
+    h1 {text-align: center; text-decoration: underline; color:burlywood; font-family: "Lucida Console", "Courier New", monospace}
+    h3 {text-align: center; text-decoration: underline; color:burlywood; font-size: 16pt; font-family: "Lucida Console", "Courier New", monospace}
+    p {font-size: 14pt; font-style: oblique}
+    ul {font-size: 14pt;}
+    table {margin-left: auto; margin-right: auto}
+    tr {color: white;}
+    #TopRow {color:coral; font-size: 14pt; text-decoration: underline; font-style:italic}
+    .Country {color:yellowgreen}
+    .img {float:left; width: 400px; height: 500px;}
+    .Past {background-color:Black; color: white; font-family: Arial, Helvetica, sans-serif}
+    .Present {background-color:black; color: white; font-family: Arial, Helvetica, sans-serif}
+    .Travel {background-color: black;position:relative; margin-left: 400px; font-family: "Lucida Console", "Courier New", monospace; clear: both;clear: both; }
